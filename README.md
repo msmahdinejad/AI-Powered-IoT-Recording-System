@@ -6,7 +6,7 @@ A complete IoT solution for synchronized audio-video recording with real-time sp
 
 ## Demo Video
 
-[⬇️ Download Video](Doc/Video/Test.mp4?raw=true)
+[⬇️ Download Video](https://github.com/msmahdinejad/AI-Powered-IoT-Recording-System/raw/refs/heads/main/Doc/Video/Test.mp4)
 
 ## Features
 
