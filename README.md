@@ -6,10 +6,7 @@ A complete IoT solution for synchronized audio-video recording with real-time sp
 
 ## Demo Video
 
-<video width="600" controls>
-  <source src="Doc/Video/Test.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](Doc/Video/Test.mp4)
 
 ## Features
 
