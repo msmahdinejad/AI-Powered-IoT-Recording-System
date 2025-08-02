@@ -6,7 +6,7 @@ A complete IoT solution for synchronized audio-video recording with real-time sp
 
 ## Demo Video
 
-![Demo Video](Doc/Video/Test.mp4)
+[⬇️ Download Video](Doc/Video/Test.mp4?raw=true)
 
 ## Features
 
